@@ -1,9 +1,6 @@
 # PDV-System
-
 #### A API foi desenvolvida baseada em um PDV (Frente de caixa), isso é um projeto piloto, no futuro será implementado outras funcionalidades.
-
-#### Como Usar
-
+#
 <details>
 <summary><b>Como Funciona as Rotas</b></summary>
 
