@@ -7,7 +7,7 @@
 
 **Para o código funcionar você precisa adicionar uma senha entre '' da sua escolha no `.env`**
 
-<img src="./src/assets/env_jwt.png"/>
+<img src="./src/Assets/env_jwt.png"/>
 
 1. Route **`GET` "listCategories"** - _Bearer Token required_
 
@@ -37,10 +37,10 @@
      http://localhost:3000/login
      ```
    - Add the user data to the body:
-   <div><img src="./src/assets/route_login.png"/></div>
+   <div><img src="./src/Assets/Users/login_user.png"/></div>
 
    - Example answer:
-   <div><img src="./src/assets/res_route_login.png"/></div>
+   <div><img src="./src/Assets/Users/res_login_user.png"/></div>
 
    **Important: Use the token generated in the response to carry out the other route tests!**
 
